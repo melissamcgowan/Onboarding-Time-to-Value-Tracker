@@ -2,7 +2,7 @@
 
 An interactive dashboard that tracks new customers through onboarding milestones and flags accounts falling behind benchmark pace, before a slow start becomes a renewal risk.
 
-**[View the live demo](#)** *(replace with your GitHub Pages link once published)*
+**[View the live demo](https://melissamcgowan.github.io/Onboarding-Time-to-Value-Tracker/)*
 
 ## The problem
 
