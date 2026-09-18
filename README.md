@@ -26,4 +26,4 @@ Single-file HTML/CSS/JS, no build step or dependencies. Synthetic data for 16 ac
 
 ## Notes on the scoring model
 
-The pace and engagement weights (60/40) and the login-frequency targets (3/week Enterprise, 5/week SMB) are illustrative assumptions, documented here rather than buried in code, so they can be swapped for a real team's actual benchmarks. In a production version, the milestone completions and login/adoption data would come from a CSP (Gainsight, Totango) or product analytics feed in place of the synthetic dataset — the scoring logic itself wouldn't need to change.
+The pace and engagement weights (60/40) and the login-frequency targets (3/week Enterprise, 5/week SMB) are illustrative assumptions, documented here rather than buried in code, so they can be swapped for a real team's actual benchmarks. In a production version, the milestone completions and login/adoption data would come from a CSP (Gainsight, Totango) or product analytics feed in place of the synthetic dataset - the scoring logic itself wouldn't need to change.
